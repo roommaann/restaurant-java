@@ -1,8 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Restaurant Management System is a Java-based desktop application that simplifies and automates day-to-day operations in a restaurant. Built using Java for the frontend and MongoDB for the backend, the system provides a flexible, document-oriented architecture suitable for handling dynamic restaurant data such as menus, orders, and customer information.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is designed for real-time management of menu items, customer orders, billing, and reservations. MongoDB’s NoSQL schema enables easier handling of nested and varying order structures (e.g., customizations, modifiers, multi-course items), making it a scalable solution for modern restaurants.
